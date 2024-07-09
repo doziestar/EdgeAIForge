@@ -173,4 +173,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-For any questions or support, please open an issue on GitHub or contact our team at support@edgeaiforge.io.
+For any questions or support, please open an issue on GitHub or contact our team at support@datavinci.so.
