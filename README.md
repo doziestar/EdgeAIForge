@@ -105,7 +105,7 @@ For more detailed information on each component, please refer to their individua
 1. Clone the repository:
 
    ```
-   git clone https://github.com/edgeaiforge/edgeaiforge.git
+   git clone https://github.com/doziestar/edgeaiforge.git
    cd edgeaiforge
    ```
 
