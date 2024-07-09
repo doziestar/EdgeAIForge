@@ -18,8 +18,8 @@ graph TB
     I[Privacy Preserving Mechanism] --> B
     J[Differential Privacy Engine] --> B
 
-    classDef core fill:#e6b67c,stroke:#000,stroke-width:2px;
-    classDef auxiliary fill:#7cb5b7,stroke:#000,stroke-width:2px;
+   classDef core fill:#8B4513,stroke:#000,stroke-width:2px,color:#fff;
+    classDef auxiliary fill:#2F4F4F,stroke:#000,stroke-width:2px,color:#fff;
 
     class A,B,C,D,E core;
     class F,G,H,I,J auxiliary;
