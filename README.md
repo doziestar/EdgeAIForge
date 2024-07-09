@@ -167,7 +167,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Acknowledgments
 
-- Thanks to all the contributors who have helped shape EdgeAIForge.
+- Thanks to all the contributors who have / will help shape EdgeAIForge.
 - Special thanks to the Rust community for providing excellent libraries and tools.
 - Inspired by advancements in edge computing and distributed AI systems.
 
