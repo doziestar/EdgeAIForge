@@ -35,7 +35,7 @@ EdgeAIForge is built with a modular architecture, consisting of the following ma
 2. **Cloud Services**: Handles complex computations, stores aggregated data, and manages models.
 3. **Platform Core**: Coordinates between edge devices and cloud services, manages API requests, and orchestrates federated learning.
 
-Here's a high-level architecture diagram of EdgeAIForge:
+High-level architecture diagram of EdgeAIForge:
 
 ```mermaid
 graph TB
