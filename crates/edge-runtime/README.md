@@ -22,8 +22,8 @@ graph TB
     J --> C
     D --> J
 
-    classDef core fill:#f9d79b,stroke:#333,stroke-width:2px;
-    classDef auxiliary fill:#a2d9ce,stroke:#333,stroke-width:2px;
+    classDef core fill:#8B4513,stroke:#000,stroke-width:2px,color:#fff;
+    classDef auxiliary fill:#2F4F4F,stroke:#000,stroke-width:2px,color:#fff;
 
     class A,B,C,D core;
     class E,F,G,H,I,J auxiliary;
